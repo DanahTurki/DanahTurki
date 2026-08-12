@@ -4,10 +4,6 @@
 
 Information Technology student at Princess Nourah University.
 
----
-
-
-
 ## Connect with Me
 
 <a href="https://www.linkedin.com/in/dana-alqahtani-8a61a4344">
