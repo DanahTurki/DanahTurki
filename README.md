@@ -8,12 +8,8 @@ I'm an Information Technology student at Princess Nourah University.
 - Git
 - GitHub
 - MySQL
-- Flutter
 - Figma
-
-## 🚀 About Me
-
-I'm interested in technology and continuously developing my technical skills through academic and personal projects.
+- Networks
 
 ## 🔗 Connect with Me
 
