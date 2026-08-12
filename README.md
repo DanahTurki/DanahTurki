@@ -10,6 +10,7 @@ I'm an Information Technology student at Princess Nourah University.
 - MySQL
 - Figma
 - Networks
+- dart
 
 ## 🔗 Connect with Me
 
